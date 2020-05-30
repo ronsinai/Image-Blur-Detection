@@ -1,0 +1,6 @@
+.idea/
+env/
+*.pyc
+
+CERTH_ImageBlurDataset/
+dumps/
